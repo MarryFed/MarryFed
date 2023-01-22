@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maria from Moscow
+- 👋 Hi, I’m Maria
 - 👀 I’m interested in frontend and backend development
 - 🌱 I’m currently learning various development languages and frameworks
 - 💞️ I’m looking to a job as a frontend-developer
